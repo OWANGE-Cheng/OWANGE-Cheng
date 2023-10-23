@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Something 'bout me 🤔
+- National University of Defense Technology, Changsha
+- Postgraduate
+- Reach me by: chengzc_owanj@nudt.edu.cn
+- Paining for removed opsigenes 😫
 <!--
 **OWANGE-Cheng/OWANGE-Cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
